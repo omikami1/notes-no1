@@ -1,0 +1,4 @@
+- C/C++ [programming-basics](konkur/reviews/programming-basics/Programming-basics)
+- discrete structure [discrete](konkur/reviews/discrete/discrete) 
+- logical-circutes [logical](konkur/reviews/logical/logical)
+- Automata-Teory [[Automata]]

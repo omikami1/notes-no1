@@ -1,0 +1,52 @@
+/*
+ * Content RTL intentionally adds direction only to Markdown content blocks.
+ * It never changes direction on body, workspace chrome, Properties, or footers.
+ */
+
+/* Each visible editor line and rendered block gets its own detected direction. */
+.content-rtl-editor .markdown-source-view .content-rtl-direction-rtl,
+.content-rtl-reading .markdown-preview-view .content-rtl-direction-rtl {
+	direction: rtl;
+	text-align: start;
+	unicode-bidi: normal;
+}
+
+.content-rtl-editor .markdown-source-view .content-rtl-direction-ltr,
+.content-rtl-reading .markdown-preview-view .content-rtl-direction-ltr {
+	direction: ltr;
+	text-align: start;
+	unicode-bidi: normal;
+}
+
+/* Defensive resets in case a theme or parent Markdown block passes direction down. */
+.content-rtl-editor .metadata-container,
+.content-rtl-reading .metadata-container,
+.content-rtl-reading .markdown-preview-section > .mod-header,
+.content-rtl-reading .markdown-preview-section > .mod-footer {
+	direction: ltr;
+	text-align: start;
+	unicode-bidi: normal;
+}
+
+/* Code, math, and raw frontmatter are always LTR. */
+.content-rtl-editor
+	.markdown-source-view.mod-cm6
+	.cm-content
+	> .cm-line.HyperMD-codeblock,
+.content-rtl-editor .markdown-source-view pre,
+.content-rtl-editor .markdown-source-view pre code,
+.content-rtl-editor .markdown-source-view .math,
+.content-rtl-reading .markdown-preview-view pre,
+.content-rtl-reading .markdown-preview-view pre code,
+.content-rtl-reading .markdown-preview-view .math {
+	direction: ltr;
+	text-align: left;
+	unicode-bidi: isolate;
+}
+
+.content-rtl-editor .markdown-source-view .cm-inline-code,
+.content-rtl-reading .markdown-preview-view :not(pre) > code {
+	display: inline-block;
+	direction: ltr;
+	unicode-bidi: isolate;
+}

@@ -1,0 +1,10 @@
+{
+	"id": "content-rtl",
+	"name": "Content RTL",
+	"version": "1.1.0",
+	"minAppVersion": "1.6.2",
+	"description": "Automatically use RTL for Persian, Arabic, or Hebrew content lines while English, Properties, code, and interface elements stay LTR.",
+	"author": "Sirwan Afifi",
+	"authorUrl": "https://github.com/SirwanAfifi",
+	"isDesktopOnly": false
+}

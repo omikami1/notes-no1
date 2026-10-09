@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "8e53e1bf95789c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "59742ab71ab24d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67c3660bc5372bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "konkur/how/where.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "where"
+            }
+          },
+          {
+            "id": "b01c776d0761df1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "konkur/reviews/Automata-Teory/Automata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automata"
+            }
+          },
+          {
+            "id": "35178b028ace30f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "konkur/reviews/logical/s3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s3"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "411b04dd7336733a",
+    "type": "split",
+    "children": [
+      {
+        "id": "866a76bdf0f5b79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "184588bca5538e38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f87af71a464db56c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09d6359fdd118d47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1949d871bae111e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e85a244da8216da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4f9b619fa8cae09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "konkur/reviews/C and C++ basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9275c4d992e83cbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "konkur/reviews/C and C++ basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b750c669aa479827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46160329d780745a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6793b61475d7c58f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "konkur/reviews/C and C++ basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e6e4b1966d745ac6",
+            "type": "leaf",
+            "state": {
+              "type": "highlightr-notes-view",
+              "state": {},
+              "icon": "sticky-note",
+              "title": "Highlights & Notes"
+            }
+          },
+          {
+            "id": "12d3748f59f6afb4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "fix-math:Current file": false,
+      "print:Print note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "35178b028ace30f5",
+  "lastOpenFiles": [
+    "konkur/reviews/Automata-Teory/s2.md",
+    "konkur/reviews/Automata-Teory/Automata.md",
+    "Automata/s2.md",
+    "Automata",
+    "konkur/reviews/Automata-Teory/s1.md",
+    "konkur/reviews/discrete/s2-test.md",
+    "konkur/reviews/discrete/s2.md",
+    "konkur/reviews/discrete/s2-p2.md",
+    "Excalidraw/Drawing 2026-10-08 14.18.34.excalidraw.md",
+    "Pasted Image 20261008153417_987.png",
+    "Pasted Image 20261008153042_828.png",
+    "Pasted Image 20261008151805_613.png",
+    "Pasted Image 20261008141837_550.png",
+    "konkur/how/where.md",
+    "discrete/s2-p2.md",
+    "konkur/reviews/discrete/discrete.md",
+    "konkur/reviews/logical/s3.md",
+    "konkur/reviews/logical/logical.md",
+    "konkur/reviews/reviews.md",
+    "Untitled.md",
+    "konkur/reviews/Automata-Teory/s1-tips.md",
+    "Excalidraw/Drawing 2026-09-29 13.56.53.excalidraw.md",
+    "discrete",
+    "konkur/reviews/logical/s2.md",
+    "Excalidraw/Drawing 2026-09-28 12.40.26.excalidraw.md",
+    "Automata.md",
+    "konkur/reviews/Automata-Teory",
+    "Excalidraw/Drawing 2026-09-26 22.36.20.excalidraw.md",
+    "konkur/reviews/programming-basics/Programming-basics.md",
+    "konkur/how/how-to-study.md",
+    "Excalidraw/Drawing 2026-09-24 21.24.14.excalidraw.md",
+    "konkur.zip",
+    "konkur.zip.xh2psi.part",
+    "konkur/reviews/discete/s2.md",
+    "konkur/reviews/discete",
+    "konkur/reviews/logical",
+    "konkur/reviews/discrete",
+    "konkur/reviews/programming-basics/preprosseors.md",
+    "konkur/reviews/programming-basics/row-major-3D.png",
+    "row-major-3D 1.png",
+    "row-major-3D.png",
+    "konkur/reviews/programming-basics",
+    "konkur/how",
+    "Untitled.canvas"
+  ]
+}
