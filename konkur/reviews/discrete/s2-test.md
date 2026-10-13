@@ -179,6 +179,10 @@ $$
 > $$ \sum_{k=0}^{n} (-1)^k \binom{n}{k} = 0 $$
 > $$ \sum_{k=0}^{n} \binom{n}{k} 2^k = 3^n $$
 > $$ \sum_{k=0}^{n} k \binom{n}{k} = n \cdot 2^{n-1} $$
+>   $$ \sum_{k=0}^{n}  \binom{n}{k} ^2 = \binom{2n}{n} $$
+>  $$ \sum_{k=0}^{n} k \binom{n}{k} ^2 = n \binom{2n-1}{n-1} $$
+>  $$ \sum_{k=0}^{K} \binom{n+k}{n} = \binom {n+K+1}{n+1} $$
+
 
 ### ۵.۲ بسط چند جمله‌ای
 
@@ -209,6 +213,7 @@ $$
 > [!note] اتحادهای مفید دیگر
 > $$ \binom{n}{k} = \frac{n}{k} \binom{n-1}{k-1} $$
 > $$ \binom{n}{k} \binom{k}{r} = \binom{n}{r} \binom{n-r}{k-r} $$
+> $$ k \binom{n}{k} = n \binom {n-1}{k-1} $$
 
 ### ۶.۱ قضایای اضافی — شمارش مربع و مستطیل
 
