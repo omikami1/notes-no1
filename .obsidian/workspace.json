@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "konkur/reviews/discrete/s2-test.md",
+                "file": "konkur/how/where.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s2-test"
+              "title": "where"
             }
           },
           {
@@ -229,10 +229,10 @@
   },
   "active": "67c3660bc5372bb8",
   "lastOpenFiles": [
-    "konkur/reviews/discrete/s2-p2.md",
-    "konkur/how/where.md",
     "konkur/reviews/Automata-Teory/s2.md",
+    "konkur/how/where.md",
     "konkur/reviews/discrete/s2-test.md",
+    "konkur/reviews/discrete/s2-p2.md",
     "Excalidraw/Drawing 2026-09-24 21.24.14.excalidraw.md",
     "konkur/reviews/Automata-Teory/Automata.md",
     "konkur/reviews/logical/s3.md",

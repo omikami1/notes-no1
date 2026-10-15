@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "readableLineLength": true
 }
