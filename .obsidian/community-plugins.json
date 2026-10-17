@@ -6,6 +6,6 @@
   "editing-toolbar",
   "fix-math",
   "print",
-  "obsidian-tikzjax",
-  "obsidian-git"
+  "obsidian-git",
+  "inline-tikz"
 ]
