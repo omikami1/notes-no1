@@ -36,25 +36,17 @@
             }
           },
           {
-            "id": "9d57b8bea0db1399",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "77e9027be4abbb23",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assests/Pasted image 20261018114241.png"
+                "file": "konkur/how/where.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261018114241"
+              "icon": "lucide-file",
+              "title": "where"
             }
           },
           {
@@ -72,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,8 +256,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314e12ec61208a19",
+  "active": "77e9027be4abbb23",
   "lastOpenFiles": [
+    "konkur/reviews/discrete/s2-notes.md",
     "konkur/reviews/discrete/discrete.md",
     "konkur/reviews/discrete/s2.md",
     "konkur/reviews/Automata-Teory/s3.md",
@@ -291,7 +284,6 @@
     "assets/Pasted image 20261018114732.png",
     "Untitled.md",
     "konkur/reviews/Automata-Teory/s2.md",
-    "konkur/reviews/discrete/s2-notes.md",
     "Excalidraw/Drawing 2026-09-24 21.24.14.excalidraw.md",
     "konkur/reviews/logical/s3.md",
     "konkur/reviews/logical/s2.md",
