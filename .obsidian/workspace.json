@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "konkur/reviews/logical/s4.md",
+                "file": "konkur/reviews/discrete/s3alt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s4"
+              "title": "s3alt"
+            }
+          },
+          {
+            "id": "1df56133eee22c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "konkur/reviews/discrete/s3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s3"
             }
           },
           {
@@ -45,7 +59,8 @@
               "title": "s2-notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,18 +252,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c20d83d5340c9a3e",
+  "active": "1df56133eee22c49",
   "lastOpenFiles": [
+    "konkur/reviews/discrete/sigma.md",
+    "konkur/reviews/discrete/s3alt.md",
+    "konkur/reviews/discrete/s3.md",
+    "Untitled 2.md",
+    "konkur/reviews/discrete/discrete.md",
+    "discrete/sigma.md",
+    "discrete",
+    "Sigma and basics.md",
+    "konkur/reviews/Automata-Teory/s2.md",
+    "konkur/reviews/Automata-Teory/s3.md",
+    "konkur/how/where.md",
+    "konkur/reviews/logical/s4.md",
     "konkur/reviews/discrete/s2-test.md",
     "konkur/reviews/discrete/s2-p2.md",
     "konkur/reviews/discrete/s2-notes.md",
-    "konkur/reviews/logical/s4.md",
     "Pasted image 20261022145539.png",
     "Pasted image 20261022144830.png",
-    "konkur/how/where.md",
-    "konkur/reviews/Automata-Teory/s3.md",
     "tikz-note.md",
-    "konkur/reviews/discrete/discrete.md",
     "konkur/reviews/discrete/s2.md",
     "konkur/reviews/Automata-Teory/Automata.md",
     "konkur/reviews/logical/logical.md",
@@ -264,19 +287,12 @@
     "assets/Pasted image 20261018115850.png",
     "assets/Pasted image 20261018115644.png",
     "Untitled.md",
-    "konkur/reviews/Automata-Teory/s2.md",
     "Excalidraw/Drawing 2026-09-24 21.24.14.excalidraw.md",
     "konkur/reviews/logical/s3.md",
     "konkur/reviews/logical/s2.md",
     "Automata",
     "konkur/reviews/Automata-Teory/s1.md",
     "Excalidraw/Drawing 2026-10-08 14.18.34.excalidraw.md",
-    "discrete/s2-p2.md",
-    "konkur/reviews/reviews.md",
-    "konkur/reviews/Automata-Teory/s1-tips.md",
-    "Excalidraw/Drawing 2026-09-29 13.56.53.excalidraw.md",
-    "discrete",
-    "Excalidraw/Drawing 2026-09-28 12.40.26.excalidraw.md",
     "konkur/reviews/Automata-Teory",
     "konkur.zip",
     "konkur.zip.xh2psi.part",
