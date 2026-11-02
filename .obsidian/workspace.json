@@ -1,80 +1,53 @@
 {
   "main": {
-    "id": "8e53e1bf95789c56",
+    "id": "d1e008ac388d467a",
     "type": "split",
     "children": [
       {
-        "id": "59742ab71ab24d86",
+        "id": "70eea3e2785c7a41",
         "type": "tabs",
         "children": [
           {
-            "id": "c20d83d5340c9a3e",
+            "id": "39579e576993ae24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "konkur/reviews/discrete/s3alt.md",
+                "file": "konkur/how/where.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s3alt"
+              "title": "where"
             }
           },
           {
-            "id": "1df56133eee22c49",
+            "id": "b08e59e694c0ecea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "konkur/reviews/discrete/s3.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-11-02 10.56.02.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "s3"
-            }
-          },
-          {
-            "id": "77e9027be4abbb23",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "314e12ec61208a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "konkur/reviews/discrete/s2-notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s2-notes"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-02 10.56.02.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "411b04dd7336733a",
+    "id": "d5a9c2163b9da50d",
     "type": "split",
     "children": [
       {
-        "id": "866a76bdf0f5b79e",
+        "id": "fa45d281dc3d1f78",
         "type": "tabs",
         "children": [
           {
-            "id": "184588bca5538e38",
+            "id": "44879aa6c0930a70",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,13 +62,13 @@
             }
           },
           {
-            "id": "f87af71a464db56c",
+            "id": "bfedb7b53ed62564",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -106,7 +79,7 @@
             }
           },
           {
-            "id": "09d6359fdd118d47",
+            "id": "cb1796b2690ee06e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -125,20 +98,19 @@
     "width": 300
   },
   "right": {
-    "id": "1949d871bae111e3",
+    "id": "818828ecbfd91992",
     "type": "split",
     "children": [
       {
-        "id": "0e85a244da8216da",
+        "id": "a911c2e1e7da3def",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f9b619fa8cae09",
+            "id": "abfc85795c8ea492",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "konkur/reviews/C and C++ basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +124,11 @@
             }
           },
           {
-            "id": "9275c4d992e83cbe",
+            "id": "9f024a1410c08e5e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "konkur/reviews/C and C++ basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "b750c669aa479827",
+            "id": "6c90d5f4e8c292e8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,7 +152,7 @@
             }
           },
           {
-            "id": "46160329d780745a",
+            "id": "45ea8e52c25d72ad",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -195,12 +166,11 @@
             }
           },
           {
-            "id": "6793b61475d7c58f",
+            "id": "0cbdbc313f7ed511",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "konkur/how/where.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,7 +180,7 @@
             }
           },
           {
-            "id": "e6e4b1966d745ac6",
+            "id": "2038a4b4e0b1e981",
             "type": "leaf",
             "state": {
               "type": "highlightr-notes-view",
@@ -218,19 +188,9 @@
               "icon": "sticky-note",
               "title": "Highlights & Notes"
             }
-          },
-          {
-            "id": "12d3748f59f6afb4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -252,54 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1df56133eee22c49",
+  "active": "39579e576993ae24",
   "lastOpenFiles": [
-    "konkur/reviews/discrete/sigma.md",
-    "konkur/reviews/discrete/s3alt.md",
-    "konkur/reviews/discrete/s3.md",
-    "Untitled 2.md",
-    "konkur/reviews/discrete/discrete.md",
-    "discrete/sigma.md",
-    "discrete",
-    "Sigma and basics.md",
-    "konkur/reviews/Automata-Teory/s2.md",
-    "konkur/reviews/Automata-Teory/s3.md",
-    "konkur/how/where.md",
-    "konkur/reviews/logical/s4.md",
+    "konkur/reviews/discrete/Sterling.md",
     "konkur/reviews/discrete/s2-test.md",
     "konkur/reviews/discrete/s2-p2.md",
+    "Excalidraw/Drawing 2026-11-02 10.56.02.excalidraw.md",
     "konkur/reviews/discrete/s2-notes.md",
-    "Pasted image 20261022145539.png",
-    "Pasted image 20261022144830.png",
-    "tikz-note.md",
-    "konkur/reviews/discrete/s2.md",
-    "konkur/reviews/Automata-Teory/Automata.md",
-    "konkur/reviews/logical/logical.md",
-    "Untitled 1.md",
-    "assets/Pasted image 20261018112909.png",
-    "assets/Pasted image 20261018114241.png",
-    "assets/Pasted image 20261018114718.png",
-    "assets",
-    "Automata/s2.md",
-    "assets/Pasted image 20261018123616.png",
-    "assets/Pasted image 20261018123457.png",
-    "assets/Pasted image 20261018114735.png",
-    "assets/Pasted image 20261018115850.png",
-    "assets/Pasted image 20261018115644.png",
-    "Untitled.md",
-    "Excalidraw/Drawing 2026-09-24 21.24.14.excalidraw.md",
-    "konkur/reviews/logical/s3.md",
-    "konkur/reviews/logical/s2.md",
-    "Automata",
-    "konkur/reviews/Automata-Teory/s1.md",
-    "Excalidraw/Drawing 2026-10-08 14.18.34.excalidraw.md",
-    "konkur/reviews/Automata-Teory",
-    "konkur.zip",
-    "konkur.zip.xh2psi.part",
-    "konkur/reviews/discete",
-    "konkur/reviews/logical",
-    "konkur/reviews/discrete",
-    "konkur/reviews/programming-basics",
-    "Untitled.canvas"
+    "konkur/reviews/discrete/s3alt.md",
+    "konkur/reviews/discrete/s3.md",
+    "file:/home/shinigami/Downloads/Telegram Desktop/solution.excalidraw",
+    "konkur/how/where.md"
   ]
 }

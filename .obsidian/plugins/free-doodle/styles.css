@@ -30,6 +30,10 @@
 	pointer-events: auto;
 	touch-action: none;
 	cursor: crosshair;
+	/* 平板：禁用长按系统菜单与文本选择，触控笔书写不被干扰 */
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
 }
 
 .free-doodle-board {
@@ -39,6 +43,9 @@
 	pointer-events: auto;
 	touch-action: none;
 	cursor: crosshair;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
 }
 
 .free-doodle-floatbar {
@@ -129,6 +136,14 @@
 	color: var(--interactive-accent);
 }
 
+.free-doodle-pop-toggle {
+	width: 1.15em;
+	height: 1.15em;
+	margin: 0;
+	accent-color: var(--interactive-accent);
+	cursor: pointer;
+}
+
 .free-doodle-pop-item.is-active {
 	background-color: var(--interactive-accent-hover);
 }
@@ -155,6 +170,50 @@
 	outline: none;
 }
 
+/* 手写识别候选 */
+.free-doodle-hw-pop {
+	flex-direction: column;
+	min-width: 160px;
+}
+
+.free-doodle-hw-row {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	flex-wrap: wrap;
+}
+
+.free-doodle-hw-cand {
+	min-width: 2em;
+	min-height: 2em;
+	font-size: 1.25em;
+	font-weight: 600;
+	line-height: 1;
+	padding: 4px 6px;
+}
+
+.free-doodle-hw-line-input {
+	width: min(320px, 60vw);
+	min-height: 32px;
+	font-size: var(--font-ui-medium);
+}
+
+.free-doodle-font-import {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	flex-wrap: wrap;
+}
+
+.free-doodle-font-input {
+	max-width: 280px;
+}
+
+.free-doodle-font-status {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
 .free-doodle-inline {
 	margin: 8px 0;
 	line-height: 0;
@@ -179,11 +238,51 @@
 
 .free-doodle-diag {
 	width: 100%;
+	min-height: 12em;
 	font-family: var(--font-monospace);
 	font-size: var(--font-ui-smaller);
-	line-height: 1.4;
+	line-height: 1.45;
 	resize: vertical;
 	white-space: pre;
+	overflow-wrap: normal;
+	overflow-x: auto;
+	box-sizing: border-box;
+	padding: 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: var(--background-primary);
+	color: var(--text-normal);
+}
+
+.free-doodle-diag-row {
+	display: block !important;
+	flex-direction: unset;
+	align-items: unset;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.free-doodle-diag-row > .setting-item-info {
+	margin-bottom: 6px;
+}
+
+.free-doodle-diag-host {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	width: 100%;
+}
+
+.free-doodle-diag-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	align-items: center;
+}
+
+.free-doodle-diag-actions .free-doodle-btn {
+	height: auto;
+	min-height: 28px;
 }
 
 /* ============ 独立画板 ============ */
